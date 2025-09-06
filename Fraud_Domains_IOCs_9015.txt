@@ -1,4 +1,9 @@
 de.cm
+rpc.adspect.com
+adspect.foo
+comsign.io
+adspect.net
+adspectre.com
 wikipedia.org
 screenai.online
 ajffgtper.no-ip.biz
@@ -113,6 +118,7 @@ testwork.kozow.com
 greenadelhouse.com
 wce.zapto.org
 wwe.homesecuritypc.com
+adspect.ai
 document.hometowncity.cloud
 pweobmxdlboi.com
 mailboxdownload.com
