@@ -1,10 +1,19 @@
 de.cm
+wellfitplan.ru
+git-desktop.app
+powiquwieree.com
+oguiuweyqwe.online
+gitpage.app
+playsevices.com
 ajffgtper.no-ip.biz
 robinhood.evalvidz.com
 api.release-drivers.online
 api.camdriverhelp.club
 sendantech.com
 scidecs.com
+downloadingpage.my
+feelsifuyerza.com
+poiwerpolymersinc.online
 versusx.us
 willotalent.us
 webcamfixer.online
@@ -30,6 +39,7 @@ adspect.foo
 comsign.io
 adspect.net
 adspectre.com
+slepseetwork.online
 wikipedia.org
 screenai.online
 factarea.z19.web.core.windows.net
@@ -76,7 +86,6 @@ docvault-share-665d141177ca.herokuapp.com
 signtrack-docs-6a96b334b140.herokuapp.com
 signforge-a61a5975a04b.herokuapp.com
 signcentral-7df32454744c.herokuapp.com
-herokuapp.com
 signstream-docs-de3fa399b173.herokuapp.com
 signlink-portal-37c581992418.herokuapp.com
 collab-sign-8e36fa762841.herokuapp.com
@@ -92,6 +101,7 @@ sharespace-link-360b265f3942.herokuapp.com
 webmailapp-0e6cff4089a4.herokuapp.com
 fileripple.com
 internal.to.proxysource.net
+playservicess.com
 wwce.zapto.org
 wce.3utilities.com
 meusitehostgator.com.br
