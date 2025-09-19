@@ -1,3 +1,4 @@
+de.cm
 kzhi.tech
 bstream.kzhi.tech
 vpn.offiec.us.kg
@@ -9,7 +10,6 @@ login.offiec.us.kg
 cna.offiec.us.kg
 aeifile.offiec.us.kg
 gp.offiec.us.kg
-de.cm
 ajffgtper.no-ip.biz
 g83u.pages.dev
 iliafmoj.forum
