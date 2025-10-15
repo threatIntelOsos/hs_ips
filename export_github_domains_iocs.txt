@@ -1,3 +1,5 @@
+root.iloveanimals.shop
+stealituptaded.lol
 9.tcp.ngrok.io
 5.tcp.ngrok.io
 7.tcp.ngrok.io
