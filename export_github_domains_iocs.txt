@@ -1,3 +1,8 @@
+itemsbests.shop
+casadecampoamazonas.com
+coinimp.com
+api.codex.jaagrav.in
+ab498.pythonanywhere.com
 root.iloveanimals.shop
 stealituptaded.lol
 9.tcp.ngrok.io
@@ -17,7 +22,6 @@ saogeraldoshoping.com
 adoblesecuryt.com
 bravexolutions.com
 expansivebot.com
-casadecampoamazonas.com
 sorvetenopotel.com
 expahnsiveuser.com
 etenopote.com
