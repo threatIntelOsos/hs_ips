@@ -1,3 +1,6 @@
+caixa.gov.br
+bancobrasil.com.br
+bb.com.br
 de.cm
 elhacker.info
 yfdnzf.com
@@ -74,11 +77,9 @@ sofisa.com.br
 banese.com.br
 banrisul.com.br
 itau.com.br
-bb.com.br
 nel.bnb.gov.br
 mercantildobrasil.com.br
 sicredi.com.br
-caixa.gov.br
 ibpj.sicredi.com.br
 tribanco.com.br
 contaonline.viacredi.coop.br
@@ -95,7 +96,6 @@ safra.com.br
 mercamercadopago.com.br
 ib.brde.com.br
 bancopan.com.br
-bancobrasil.com.br
 bancotopazio.com.br
 www2s.bancoamazonia.com.br
 bancofibra.com.br
