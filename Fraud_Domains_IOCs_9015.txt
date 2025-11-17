@@ -1,5 +1,5 @@
-use.fortawesome.com
 de.cm
+use.fortawesome.com
 englishmasters.store
 dederentacar.net
 wikipedia.org
