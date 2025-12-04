@@ -1,4 +1,5 @@
 de.cm
+assets-eur.mkt.dynamics.com
 163.com
 claim.gradient-network.online
 crulsemekong.com
