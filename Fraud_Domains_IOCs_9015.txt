@@ -1,3 +1,4 @@
+scidecs.com
 assets-eur.mkt.dynamics.com
 de.cm
 q9iyk.motaparafusos.com.br
@@ -274,7 +275,6 @@ robinhood.evalvidz.com
 api.release-drivers.online
 api.camdriverhelp.club
 sendantech.com
-scidecs.com
 downloadingpage.my
 feelsifuyerza.com
 poiwerpolymersinc.online
