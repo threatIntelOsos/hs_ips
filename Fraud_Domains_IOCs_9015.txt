@@ -1,8 +1,8 @@
+assets-eur.mkt.dynamics.com
 de.cm
 zerobot.info
 gsdf.org.au
 scidecs.com
-assets-eur.mkt.dynamics.com
 q9iyk.motaparafusos.com.br
 haleekzowan.pythonanywhere.com
 vdmkesure.lacastillo.workers.dev
