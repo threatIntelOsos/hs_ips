@@ -1,5 +1,5 @@
-assets-eur.mkt.dynamics.com
 de.cm
+assets-eur.mkt.dynamics.com
 zerobot.info
 gsdf.org.au
 scidecs.com
