@@ -1,3 +1,4 @@
+assets-eur.mkt.dynamics.com
 de.cm
 goldenticketsshop.com
 dynamiclake.org
@@ -9,7 +10,6 @@ hulde-izy.com
 dl1.infinity-box.com
 highperformanceformat.com
 okserver29.com
-assets-eur.mkt.dynamics.com
 bestguiltypleasure.com
 clipvibe-zone.com
 zerobot.info
