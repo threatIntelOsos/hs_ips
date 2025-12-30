@@ -1,3 +1,4 @@
+use.fortawesome.com
 de.cm
 assets-eur.mkt.dynamics.com
 goldenticketsshop.com
@@ -31,7 +32,6 @@ clickproxy.retailrocket.net
 muz.li
 sanjayballbearing.com
 repo.zoufejou.live
-use.fortawesome.com
 campaign.nextexportzone.com
 hhohydrogengrailtech.com
 pub-8ce37030cb1e426cad17d35b2f592ea0.r2.dev
