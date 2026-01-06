@@ -1,4 +1,5 @@
 de.cm
+assets-eur.mkt.dynamics.com
 activehosted.com
 bandardewi8.site
 edwall.top
@@ -7,7 +8,6 @@ url3781.host.inreception.com
 rotrawane.click
 count.n-oo-n.com
 use.fortawesome.com
-assets-eur.mkt.dynamics.com
 goldenticketsshop.com
 dynamiclake.org
 ledgmanyman.com
