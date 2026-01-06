@@ -1,3 +1,4 @@
+wikipedia.org
 use.fortawesome.com
 de.cm
 assets-eur.mkt.dynamics.com
@@ -13,7 +14,6 @@ dynamiclake.org
 ledgmanyman.com
 sweetseedsbeep.com
 scidecs.com
-wikipedia.org
 hulde-izy.com
 dl1.infinity-box.com
 highperformanceformat.com
