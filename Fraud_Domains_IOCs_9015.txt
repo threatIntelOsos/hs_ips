@@ -1,3 +1,4 @@
+use.fortawesome.com
 ho5jtrqjab.easyplayteam.com
 de.cm
 processplanet.org
@@ -5,7 +6,6 @@ magicallyday.com
 api.tikavodot.co.il
 fliqr.codes
 wikipedia.org
-use.fortawesome.com
 assets-eur.mkt.dynamics.com
 activehosted.com
 bandardewi8.site
