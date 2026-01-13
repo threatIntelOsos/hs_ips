@@ -1,4 +1,5 @@
 de.cm
+wikipedia.org
 assets-eur.mkt.dynamics.com
 kfhpersonel.online
 crustdisagreeable.com
@@ -24,7 +25,6 @@ processplanet.org
 magicallyday.com
 api.tikavodot.co.il
 fliqr.codes
-wikipedia.org
 low-house.com
 activehosted.com
 bandardewi8.site
