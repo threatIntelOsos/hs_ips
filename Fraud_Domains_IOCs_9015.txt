@@ -1,5 +1,5 @@
-use.fortawesome.com
 de.cm
+use.fortawesome.com
 nationalnotication.it.com
 thocroostio.sa.com
 wikipedia.org
