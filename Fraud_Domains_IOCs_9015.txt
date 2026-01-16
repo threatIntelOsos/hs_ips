@@ -1,3 +1,4 @@
+nationalnotication.it.com
 capital.com
 bybit.com
 nexo.com
@@ -12,7 +13,6 @@ genixpro.ru.com
 okx.com
 activated.win
 use.fortawesome.com
-nationalnotication.it.com
 thocroostio.sa.com
 wikipedia.org
 assets-eur.mkt.dynamics.com
