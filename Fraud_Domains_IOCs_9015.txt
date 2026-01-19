@@ -1,4 +1,6 @@
 de.cm
+bigmine.pro
+assets-eur.mkt.dynamics.com
 apps.knack.com
 online.nationalkuwait.it.com
 nationalnotication.it.com
@@ -17,7 +19,6 @@ activated.win
 use.fortawesome.com
 thocroostio.sa.com
 wikipedia.org
-assets-eur.mkt.dynamics.com
 kfhpersonel.online
 crustdisagreeable.com
 indiahackgod.su
