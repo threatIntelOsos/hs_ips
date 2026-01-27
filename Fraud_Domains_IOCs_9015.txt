@@ -1,3 +1,4 @@
+assets-eur.mkt.dynamics.com
 de.cm
 use.fortawesome.com
 163.com
@@ -48,7 +49,6 @@ optique-leclercq.be
 aceeyl.com
 drawi.io
 bigmine.pro
-assets-eur.mkt.dynamics.com
 online.nationalkuwait.it.com
 nationalnotication.it.com
 capital.com
