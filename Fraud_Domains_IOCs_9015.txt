@@ -1,5 +1,5 @@
-assets-eur.mkt.dynamics.com
 de.cm
+assets-eur.mkt.dynamics.com
 use.fortawesome.com
 163.com
 1.tcp.tw.cpolar.io
