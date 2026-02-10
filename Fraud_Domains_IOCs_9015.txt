@@ -1,5 +1,5 @@
-assets-eur.mkt.dynamics.com
 de.cm
+assets-eur.mkt.dynamics.com
 7cw4t017.r.eu-north-1.awstrack.me
 benefitsonlineportal.com
 getpocket.com
