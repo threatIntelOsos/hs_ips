@@ -1,3 +1,4 @@
+accounts.binance.com
 use.fortawesome.com
 mandrillapp.com
 apstlsplm.standard.us-east-1.oortech.com
@@ -230,7 +231,6 @@ mili56576nbgthy9e5e.ajxk.de
 proactive.employees-evaluation.workers.dev
 grupomafersul.com.br
 yfdnzf.com
-accounts.binance.com
 gsyuan.com
 espadadz.ddns.net
 xzf.soundestlink.com
