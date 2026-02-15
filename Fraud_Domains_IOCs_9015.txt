@@ -4,6 +4,16 @@ telesupportgroup.com
 accounts.binance.com
 mandrillapp.com
 apstlsplm.standard.us-east-1.oortech.com
+673908-coinbase.com
+369201v-coinbase.com
+putuartana.com
+mysecureportal-coinbase.com
+diagnostics-coinbase.com
+coinbase-live.com
+674933-coinbase.com
+safestorage-coinbase.com
+myhelpdesk-coinbase.com
+jxnvbaubojxdjokjegad.supabase.co
 defense-coinbase.com
 coinbase-storage.com
 coinbase-safeguard.com
@@ -259,6 +269,7 @@ caixa.gov.br
 bancobrasil.com.br
 bb.com.br
 coinbase-myaccount.com
+coinbase-myvault.com
 webhook.site
 michigan.gov-imky.win
 usps.com-posewxts.top
@@ -300,9 +311,11 @@ vercel.driokaiho.ru.com
 careers-afbd.com
 36-5fficdacoe4059403jdjd00.s3.us-east-1.amazonaws.com
 protectedportal-coinbase.com
+securedvault-coinbase.com
 exceladept.com
 servgate.me
 safeportal-coinbase.com
+securityvault-coinbase.com
 sorvetenopotel.com
 sorv.etenopote.com
 expahnsiveuser.com
