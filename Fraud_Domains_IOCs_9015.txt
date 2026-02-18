@@ -1,3 +1,4 @@
+condo-clause-qualifying-zshops.trycloudflare.com
 de.cm
 scidecs.com
 use.fortawesome.com
