@@ -1,3 +1,4 @@
+vercel.app
 de.cm
 use.fortawesome.com
 condo-clause-qualifying-zshops.trycloudflare.com
