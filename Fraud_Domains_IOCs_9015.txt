@@ -1,6 +1,7 @@
+use.fortawesome.com
+de.cm
 mandrillapp.com
 linkprotect.cudasvc.com
-de.cm
 chikatiloserialsxe.online
 autsorsserialrpv.online
 autsorsserialkhy.online
@@ -24,7 +25,6 @@ autsorsserialbdk.online
 autsorsserialtyr.online
 autsorsserialyuu.online
 vercel.app
-use.fortawesome.com
 condo-clause-qualifying-zshops.trycloudflare.com
 scidecs.com
 chatgpt-connect.top
