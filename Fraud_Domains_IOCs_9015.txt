@@ -1,7 +1,5 @@
 de.cm
-github.com
 mazika2day.com
-raw.githubusercontent.com
 getpocket.com
 assets-eur.mkt.dynamics.com
 informationgarrden.top
