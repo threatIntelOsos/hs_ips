@@ -1,3 +1,8 @@
+files.tracemonitors.com
+files.fetch-api.com
+apicl.fetch-api.com
+rfiles5.testrequest.info
+rfiles2.testrequest.info
 mandrillapp.com
 screenai.online
 de.cm
@@ -113,7 +118,13 @@ vercel.app
 condo-clause-qualifying-zshops.trycloudflare.com
 scidecs.com
 chatgpt-connect.top
+apicl.quicknodelink.com
+apicl.datasyncapi.com
 capital.com
+ninja-browser.com
+fetch-api.com
+datasyncapi.com
+tracemonitors.com
 ccrautorepair.com
 dronemaker.org
 telesupportgroup.com
