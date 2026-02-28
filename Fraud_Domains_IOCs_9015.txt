@@ -1,3 +1,4 @@
+files.quicknodelink.com
 files.tracemonitors.com
 files.fetch-api.com
 apicl.fetch-api.com
