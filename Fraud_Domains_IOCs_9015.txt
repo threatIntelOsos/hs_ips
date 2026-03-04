@@ -1,3 +1,4 @@
+cpanel.avd-trade.cam
 de.cm
 workloadspace.b-cdn.net
 ionusman--07b21c3416f111f1b4bb42dde27851f2.web.val.run
