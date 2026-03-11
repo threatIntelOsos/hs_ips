@@ -1,3 +1,4 @@
+scidecs.com
 de.cm
 maritimeendeavor.com
 pippingtech.com
@@ -14,7 +15,6 @@ cpanel.avd-trade.cam
 workloadspace.b-cdn.net
 ionusman--07b21c3416f111f1b4bb42dde27851f2.web.val.run
 ajffgtper.no-ip.biz
-scidecs.com
 webmail-08798657453523209-94564534596545.pages.dev
 i.ibb.co
 files.quicknodelink.com
