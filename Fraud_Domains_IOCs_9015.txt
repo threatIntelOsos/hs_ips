@@ -1,3 +1,4 @@
+de.cm
 2no.co
 ics-remote.io
 handala-alert.to
@@ -17,7 +18,6 @@ ir-ops-room.net
 zagrosguard.ir
 crowdstrike.com.vc
 b.tm
-de.cm
 scidecs.com
 maritimeendeavor.com
 pippingtech.com
