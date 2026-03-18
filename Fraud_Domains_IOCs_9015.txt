@@ -1,3 +1,4 @@
+de.cm
 zkik.grctreinamentos.com
 track.chanret.com
 larozada.com
@@ -10,7 +11,6 @@ octopus-clouds.com
 uptime-app.kozow.com
 win-azure.live
 update-software.casacam.net
-de.cm
 tracking.us.nylas.com
 unityprogressall.org
 defenceprodindia.site
