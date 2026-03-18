@@ -1,3 +1,11 @@
+backfiresystem.site
+dns-check.freeddns.org
+5486311.xyz
+muni.myftp.org
+octopus-clouds.com
+uptime-app.kozow.com
+win-azure.live
+update-software.casacam.net
 de.cm
 tracking.us.nylas.com
 unityprogressall.org
@@ -6,6 +14,7 @@ iwsmailserver.com
 zhblz.com
 hypernas.com
 1drvms.store
+malicanbur.pro
 filebulldogs.com
 njymzc.com
 okx.com
