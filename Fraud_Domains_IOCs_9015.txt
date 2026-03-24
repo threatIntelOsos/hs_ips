@@ -1,3 +1,4 @@
+assets-eur.mkt.dynamics.com
 de.cm
 talasrazox.im
 deno.land
@@ -87,7 +88,6 @@ screenai.online
 webhook.site
 mazika2day.com
 getpocket.com
-assets-eur.mkt.dynamics.com
 informationgarrden.top
 miabiollen.com
 verotibet.com
