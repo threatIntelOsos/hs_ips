@@ -1,3 +1,6 @@
+sso.bookairway.com
+cardsvc.com
+zyphra.ink
 de.cm
 sumittomocorps.com
 assets-eur.mkt.dynamics.com
@@ -22,6 +25,7 @@ octopus-clouds.com
 uptime-app.kozow.com
 win-azure.live
 update-software.casacam.net
+maxisteq.org
 tracking.us.nylas.com
 unityprogressall.org
 defenceprodindia.site
@@ -34,6 +38,10 @@ filebulldogs.com
 njymzc.com
 okx.com
 newgrouplinks.in
+codefusiontech.org
+promoverse.org
+jerusalemsolutions.com
+miniquest.org
 nxshchj.com
 kvsystemhn.com
 gamblingautonomous.com
@@ -60,10 +68,12 @@ b.tm
 scidecs.com
 fsdgh.com
 almersalstore.com
+arenareport.report
 maritimeendeavor.com
 pippingtech.com
 southkorealive.com
 sec.noriccastcasino.com
+netvigil.org
 tylarion867mino.com
 onlinelive.info
 il-cert.net
@@ -77,6 +87,7 @@ workloadspace.b-cdn.net
 ionusman--07b21c3416f111f1b4bb42dde27851f2.web.val.run
 ajffgtper.no-ip.biz
 webmail-08798657453523209-94564534596545.pages.dev
+bookairway.com
 i.ibb.co
 files.quicknodelink.com
 files.tracemonitors.com
