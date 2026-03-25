@@ -1,3 +1,4 @@
+assets-eur.mkt.dynamics.com
 apps.knack.com
 litellm.cloud
 api.bolsanslarkanka.com
@@ -6,7 +7,6 @@ cardsvc.com
 zyphra.ink
 de.cm
 sumittomocorps.com
-assets-eur.mkt.dynamics.com
 talasrazox.im
 deno.land
 uehfks.digital
