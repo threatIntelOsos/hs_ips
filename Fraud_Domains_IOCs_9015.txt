@@ -1,3 +1,8 @@
+chainlink-api-v3.com
+astrabytesync.com
+astrabytesyncs.com
+publicshare.org
+talentacq.pro
 gorillacarted.shop
 assets-eur.mkt.dynamics.com
 de.cm
@@ -6,6 +11,7 @@ litellm.cloud
 api.bolsanslarkanka.com
 sso.bookairway.com
 cardsvc.com
+checkmarx.zone
 zyphra.ink
 sumittomocorps.com
 talasrazox.im
