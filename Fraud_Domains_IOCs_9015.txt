@@ -1,4 +1,6 @@
 de.cm
+auth-national.kuwaa.it.com
+apps.knack.com
 infiniti-stealer.com
 update-check.com
 zashotmncd.bond
@@ -19,7 +21,6 @@ astrabytesync.com
 assets-eur.mkt.dynamics.com
 pnuisckmhwagzvdyjrlbeft.software
 gorillacarted.shop
-apps.knack.com
 litellm.cloud
 api.bolsanslarkanka.com
 sso.bookairway.com
