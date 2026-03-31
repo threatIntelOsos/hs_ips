@@ -1,6 +1,7 @@
+de.cm
+assets-eur.mkt.dynamics.com
 glzjde9bmd.ptyuijnhfgd.org
 use.fortawesome.com
-de.cm
 auth-national.kuwaa.it.com
 apps.knack.com
 infiniti-stealer.com
@@ -20,7 +21,6 @@ talentacq.pro
 chainlink-api-v3.com
 astrabytesyncs.com
 astrabytesync.com
-assets-eur.mkt.dynamics.com
 pnuisckmhwagzvdyjrlbeft.software
 gorillacarted.shop
 litellm.cloud
