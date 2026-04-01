@@ -1,3 +1,5 @@
+svc.ha-teams.office.com
+teams-mrc-ww-perf.tm-4.office.com
 de.cm
 l.wl.co
 sfrclak.com
