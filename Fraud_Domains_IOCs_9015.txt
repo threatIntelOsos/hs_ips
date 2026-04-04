@@ -1,3 +1,5 @@
+deliverychannel.org
+apps.knack.com
 teams-mrc-ww-perf.tm-4.office.com
 de.cm
 marchonspartner.com
@@ -22,7 +24,6 @@ assets-eur.mkt.dynamics.com
 glzjde9bmd.ptyuijnhfgd.org
 use.fortawesome.com
 auth-national.kuwaa.it.com
-apps.knack.com
 infiniti-stealer.com
 update-check.com
 zashotmncd.bond
