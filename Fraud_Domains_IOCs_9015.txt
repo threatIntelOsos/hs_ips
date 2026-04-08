@@ -1,3 +1,4 @@
+kucoin.com
 de.cm
 login.rossmorgannco.com
 vcx.ru.com
@@ -435,7 +436,6 @@ g2a.com
 blockchain.com
 crypto.com
 bitmex.com
-kucoin.com
 xapo.com
 genixpro.ru.com
 activated.win
