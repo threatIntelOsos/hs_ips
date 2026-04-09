@@ -1,3 +1,4 @@
+teams-mrc-ww-perf.tm-4.office.com
 de.cm
 kucoin.com
 login.rossmorgannco.com
@@ -22,7 +23,6 @@ bifa668.com
 telegrtam.com.cn
 eyy-eyy.com
 blitz168asia.com
-teams-mrc-ww-perf.tm-4.office.com
 filehippo.com
 tracking.us.nylas.com
 deliverychannel.org
@@ -165,7 +165,6 @@ files.fetch-api.com
 apicl.fetch-api.com
 rfiles5.testrequest.info
 rfiles2.testrequest.info
-mandrillapp.com
 screenai.online
 webhook.site
 mazika2day.com
