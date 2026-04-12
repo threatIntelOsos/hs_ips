@@ -1,3 +1,5 @@
+scalableplatforms.de
+de.cm
 ankofort.com
 iili.io
 govcy.icu
@@ -155,7 +157,6 @@ fullccopoc.click
 ms-teams.us.com
 ms-meets.us.com
 onlivemeet.com
-de.cm
 grctreinamentos.com.br
 teams-mrc-ww-perf.tm-4.office.com
 web-meet.live
