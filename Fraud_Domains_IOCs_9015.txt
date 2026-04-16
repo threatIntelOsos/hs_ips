@@ -1,3 +1,4 @@
+track.chanret.com
 de.cm
 ipfs.io
 iili.io
@@ -288,7 +289,6 @@ update-check.com
 zashotmncd.bond
 nextifymsbd.icu
 tsastudio.com
-track.chanret.com
 click.npr.kuow.org
 hotcox.com
 filen.io
