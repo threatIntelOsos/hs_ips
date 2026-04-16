@@ -1,3 +1,4 @@
+de.cm
 track.chanret.com
 kasperskysecure.com
 helpwebmicrosoft.com
@@ -14,7 +15,6 @@ smsvc.mooo.com
 microsoftbackups.com
 microsoftdaily.com
 mcafeeupdates.com
-de.cm
 ipfs.io
 iili.io
 grctreinamentos.com.br
