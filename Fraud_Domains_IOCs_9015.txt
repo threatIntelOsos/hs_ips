@@ -1,3 +1,6 @@
+tracking.us.nylas.com
+capital.com
+iili.io
 de.cm
 track.chanret.com
 kasperskysecure.com
@@ -16,7 +19,6 @@ microsoftbackups.com
 microsoftdaily.com
 mcafeeupdates.com
 ipfs.io
-iili.io
 grctreinamentos.com.br
 tdzjwe.smmsafezone.com
 mimbajarsylhet.com
@@ -278,7 +280,6 @@ telegrtam.com.cn
 eyy-eyy.com
 blitz168asia.com
 filehippo.com
-tracking.us.nylas.com
 deliverychannel.org
 apps.knack.com
 marchonspartner.com
@@ -526,7 +527,6 @@ condo-clause-qualifying-zshops.trycloudflare.com
 chatgpt-connect.top
 apicl.quicknodelink.com
 apicl.datasyncapi.com
-capital.com
 ninja-browser.com
 fetch-api.com
 datasyncapi.com
