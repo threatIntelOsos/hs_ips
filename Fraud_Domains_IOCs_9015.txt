@@ -1,3 +1,4 @@
+service-kom.ydns.eu
 de.cm
 allosoruce.org
 jamescare.cfd
