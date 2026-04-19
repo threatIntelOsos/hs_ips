@@ -1,5 +1,5 @@
-service-kom.ydns.eu
 de.cm
+service-kom.ydns.eu
 allosoruce.org
 jamescare.cfd
 ruyaan.com
