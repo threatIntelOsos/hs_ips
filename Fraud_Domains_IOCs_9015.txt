@@ -1,3 +1,4 @@
+track.chanret.com
 de.cm
 iili.io
 shopplox.com
@@ -87,7 +88,6 @@ paloaltonetworkhelp.com
 topmicrosoftmarketing.com
 tracking.us.nylas.com
 capital.com
-track.chanret.com
 kasperskysecure.com
 helpwebmicrosoft.com
 getgooglecard.com
