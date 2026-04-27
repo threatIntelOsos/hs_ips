@@ -1,6 +1,7 @@
 de.cm
-track.chanret.com
+capital.com
 iili.io
+track.chanret.com
 shopplox.com
 engagementads.com
 b2b-techcontent.com
@@ -87,7 +88,6 @@ cashmicrosoft.com
 paloaltonetworkhelp.com
 topmicrosoftmarketing.com
 tracking.us.nylas.com
-capital.com
 kasperskysecure.com
 helpwebmicrosoft.com
 getgooglecard.com
