@@ -1,4 +1,5 @@
 de.cm
+islamestic.com
 deno.land
 byte-io.us
 cloud-sync.online
