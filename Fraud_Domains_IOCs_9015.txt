@@ -1,5 +1,5 @@
-deno.land
 de.cm
+deno.land
 byte-io.us
 cloud-sync.online
 datahub.ink
