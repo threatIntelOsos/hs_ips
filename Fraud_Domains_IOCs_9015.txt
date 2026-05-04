@@ -1,4 +1,5 @@
 de.cm
+wikipedia.org
 iili.io
 islamestic.com
 deno.land
@@ -791,7 +792,6 @@ promole5.ddnsfree.com
 dinozozo.com
 bancoadechileqae.top
 thocroostio.sa.com
-wikipedia.org
 kfhpersonel.online
 indiahackgod.su
 groksearch.net
