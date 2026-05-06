@@ -1,3 +1,4 @@
+t.me
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -23,11 +24,6 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-meshsorterio.com
-office-theme.com
-hiremployee.com
-updates-installer.store
-t.me
 juventus.com
 megakalashik.pro
 security-usa.com
@@ -91,6 +87,9 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
+meshsorterio.com
+office-theme.com
+hiremployee.com
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -175,3 +174,4 @@ osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
 ukr.net
+updates-installer.store
