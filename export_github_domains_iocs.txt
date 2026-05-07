@@ -1,4 +1,4 @@
-updates-installer.store
+t.me
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -10,7 +10,7 @@ test.ikotech.online
 proseguro.site
 maisseguraca.site
 ukr.net
-t.me
+updates-installer.store
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
