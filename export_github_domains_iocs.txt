@@ -10,14 +10,6 @@ idp-selectric.com
 sevrrhst.com
 stomcs.com
 elhacker.info
-meshsorterio.com
-office-theme.com
-hiremployee.com
-updates-installer.store
-t.me
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -91,6 +83,10 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
+meshsorterio.com
+office-theme.com
+hiremployee.com
+updates-installer.store
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -175,3 +171,7 @@ osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
 ukr.net
+t.me
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
