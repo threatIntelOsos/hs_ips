@@ -1,4 +1,4 @@
-t.me
+ukr.net
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -14,8 +14,11 @@ idp-selectric.com
 sevrrhst.com
 stomcs.com
 elhacker.info
-ukr.net
+meshsorterio.com
+office-theme.com
+hiremployee.com
 updates-installer.store
+t.me
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -172,6 +175,3 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-meshsorterio.com
-office-theme.com
-hiremployee.com
