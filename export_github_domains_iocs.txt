@@ -1,4 +1,14 @@
-ukr.net
+t.me
+py-installer.cc
+intercttp.xyz
+jsonserv.biz
+jsonserv.xyz
+jjjgaasda.live
+maisprotecao.site
+maisseguro.site
+test.ikotech.online
+proseguro.site
+maisseguraca.site
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -85,8 +95,7 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-updates-installer.store
-t.me
+ukr.net
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -102,16 +111,6 @@ idp-selectric.com
 sevrrhst.com
 stomcs.com
 elhacker.info
-py-installer.cc
-intercttp.xyz
-jsonserv.biz
-jsonserv.xyz
-jjjgaasda.live
-maisprotecao.site
-maisseguro.site
-test.ikotech.online
-proseguro.site
-maisseguraca.site
 juventus.com
 megakalashik.pro
 security-usa.com
@@ -175,3 +174,4 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
+updates-installer.store
