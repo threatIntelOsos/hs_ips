@@ -1,7 +1,5 @@
 ukr.net
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+t.me
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -97,11 +95,10 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-meshsorterio.com
-office-theme.com
-hiremployee.com
 updates-installer.store
-t.me
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -175,3 +172,6 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
+meshsorterio.com
+office-theme.com
+hiremployee.com
