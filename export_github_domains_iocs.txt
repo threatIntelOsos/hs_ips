@@ -1,9 +1,6 @@
-ukr.net
-t.me
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
-updates-installer.store
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -172,6 +169,9 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
+ukr.net
+t.me
 meshsorterio.com
 office-theme.com
 hiremployee.com
+updates-installer.store
