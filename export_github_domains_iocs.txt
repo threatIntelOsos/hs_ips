@@ -1,7 +1,4 @@
-updates-installer.store
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+t.me
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -27,7 +24,9 @@ maisseguraca.site
 meshsorterio.com
 office-theme.com
 hiremployee.com
-t.me
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 juventus.com
 megakalashik.pro
 security-usa.com
@@ -175,3 +174,4 @@ osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
 ukr.net
+updates-installer.store
