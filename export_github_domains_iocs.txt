@@ -1,4 +1,6 @@
-t.me
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -21,6 +23,7 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
+updates-installer.store
 juventus.com
 megakalashik.pro
 security-usa.com
@@ -84,11 +87,6 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
-ukr.net
-updates-installer.store
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -175,3 +173,5 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
+ukr.net
+t.me
