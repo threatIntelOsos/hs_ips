@@ -1,7 +1,3 @@
-updates-installer.store
-meshsorterio.com
-office-theme.com
-hiremployee.com
 ukr.net
 t.me
 sfrclak.com
@@ -29,6 +25,10 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
+meshsorterio.com
+office-theme.com
+hiremployee.com
+updates-installer.store
 juventus.com
 megakalashik.pro
 security-usa.com
