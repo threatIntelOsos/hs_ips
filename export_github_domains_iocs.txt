@@ -1,3 +1,7 @@
+updates-installer.store
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -71,11 +75,6 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
-updates-installer.store
-t.me
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -163,6 +162,7 @@ meshsorterio.com
 office-theme.com
 hiremployee.com
 ukr.net
+t.me
 mgardownload.com
 m-mgarg.com
 screenai.online
