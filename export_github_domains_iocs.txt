@@ -1,3 +1,7 @@
+t.me
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -157,9 +161,8 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+ukr.net
+updates-installer.store
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -172,6 +175,3 @@ idp-selectric.com
 sevrrhst.com
 stomcs.com
 elhacker.info
-ukr.net
-updates-installer.store
-t.me
