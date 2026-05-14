@@ -1,6 +1,4 @@
-meshsorterio.com
-office-theme.com
-hiremployee.com
+t.me
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -11,9 +9,6 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-ukr.net
-updates-installer.store
-t.me
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -175,3 +170,8 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
+meshsorterio.com
+office-theme.com
+hiremployee.com
+ukr.net
+updates-installer.store
