@@ -162,7 +162,6 @@ meshsorterio.com
 office-theme.com
 hiremployee.com
 ukr.net
-updates-installer.store
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -175,3 +174,4 @@ idp-selectric.com
 sevrrhst.com
 stomcs.com
 elhacker.info
+updates-installer.store
