@@ -158,7 +158,6 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-updates-installer.store
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -175,3 +174,4 @@ sevrrhst.com
 stomcs.com
 elhacker.info
 ukr.net
+updates-installer.store
