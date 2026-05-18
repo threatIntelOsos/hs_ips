@@ -1,8 +1,8 @@
+meshsorterio.com
+office-theme.com
+hiremployee.com
 ukr.net
-t.me
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+updates-installer.store
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -78,10 +78,10 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
-meshsorterio.com
-office-theme.com
-hiremployee.com
-updates-installer.store
+t.me
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
