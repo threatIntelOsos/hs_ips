@@ -1,6 +1,4 @@
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+t.me
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -96,9 +94,9 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-ukr.net
-updates-installer.store
-t.me
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -175,3 +173,5 @@ carrier-packets.net
 meshsorterio.com
 office-theme.com
 hiremployee.com
+ukr.net
+updates-installer.store
