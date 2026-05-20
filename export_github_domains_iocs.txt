@@ -1,3 +1,4 @@
+t.me
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -23,11 +24,6 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-meshsorterio.com
-office-theme.com
-hiremployee.com
-ukr.net
-updates-installer.store
 juventus.com
 megakalashik.pro
 security-usa.com
@@ -174,4 +170,8 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-t.me
+updates-installer.store
+meshsorterio.com
+office-theme.com
+hiremployee.com
+ukr.net
