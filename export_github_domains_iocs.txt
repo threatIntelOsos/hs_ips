@@ -11,8 +11,6 @@ sevrrhst.com
 stomcs.com
 elhacker.info
 ukr.net
-updates-installer.store
-t.me
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -175,3 +173,5 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
+updates-installer.store
+t.me
