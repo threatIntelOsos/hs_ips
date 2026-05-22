@@ -1,4 +1,8 @@
 ukr.net
+updates-installer.store
+meshsorterio.com
+office-theme.com
+hiremployee.com
 t.me
 juventus.com
 sfrclak.com
@@ -171,7 +175,3 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-meshsorterio.com
-office-theme.com
-hiremployee.com
-updates-installer.store
