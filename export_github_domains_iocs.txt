@@ -64,6 +64,7 @@ confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
 ukr.net
+updates-installer.store
 t.me
 juventus.com
 mgardownload.com
@@ -174,4 +175,3 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-updates-installer.store
