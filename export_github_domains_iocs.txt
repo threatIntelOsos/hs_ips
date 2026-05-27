@@ -144,9 +144,6 @@ osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
 ukr.net
-meshsorterio.com
-office-theme.com
-hiremployee.com
 updates-installer.store
 t.me
 juventus.com
@@ -175,3 +172,6 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
+meshsorterio.com
+office-theme.com
+hiremployee.com
