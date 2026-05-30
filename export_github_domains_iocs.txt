@@ -85,7 +85,6 @@ osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
 ukr.net
-updates-installer.store
 t.me
 juventus.com
 mgardownload.com
@@ -175,3 +174,4 @@ carrier-packets.net
 meshsorterio.com
 office-theme.com
 hiremployee.com
+updates-installer.store
