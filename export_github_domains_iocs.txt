@@ -1,5 +1,3 @@
-ukr.net
-updates-installer.store
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -163,6 +161,8 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
+ukr.net
+updates-installer.store
 t.me
 juventus.com
 py-installer.cc
