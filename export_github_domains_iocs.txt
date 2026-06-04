@@ -13,7 +13,6 @@ idp-selectric.com
 sevrrhst.com
 stomcs.com
 elhacker.info
-updates-installer.store
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -86,6 +85,8 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
+t.me
+juventus.com
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -173,5 +174,4 @@ meshsorterio.com
 office-theme.com
 hiremployee.com
 ukr.net
-t.me
-juventus.com
+updates-installer.store
