@@ -1,4 +1,6 @@
+updates-installer.store
 t.me
+juventus.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -11,6 +13,9 @@ idp-selectric.com
 sevrrhst.com
 stomcs.com
 elhacker.info
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -83,13 +88,6 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
-meshsorterio.com
-office-theme.com
-hiremployee.com
-juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -173,5 +171,7 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
+meshsorterio.com
+office-theme.com
+hiremployee.com
 ukr.net
-updates-installer.store
