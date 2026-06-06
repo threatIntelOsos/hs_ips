@@ -25,6 +25,8 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
+ukr.net
+updates-installer.store
 megakalashik.pro
 security-usa.com
 mccp-logistics.com
@@ -173,5 +175,3 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-ukr.net
-updates-installer.store
