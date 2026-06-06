@@ -15,11 +15,6 @@ idp-selectric.com
 sevrrhst.com
 stomcs.com
 elhacker.info
-meshsorterio.com
-office-theme.com
-hiremployee.com
-ukr.net
-updates-installer.store
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -30,6 +25,7 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
+updates-installer.store
 megakalashik.pro
 security-usa.com
 mccp-logistics.com
@@ -175,3 +171,7 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
+meshsorterio.com
+office-theme.com
+hiremployee.com
+ukr.net
