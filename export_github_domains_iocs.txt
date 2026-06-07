@@ -1,6 +1,7 @@
 ukr.net
 updates-installer.store
 t.me
+juventus.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -13,10 +14,6 @@ idp-selectric.com
 sevrrhst.com
 stomcs.com
 elhacker.info
-juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -175,3 +172,6 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
