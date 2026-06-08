@@ -1,8 +1,10 @@
+updates-installer.store
 t.me
 juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
+ukr.net
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -173,5 +175,3 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-ukr.net
-updates-installer.store
