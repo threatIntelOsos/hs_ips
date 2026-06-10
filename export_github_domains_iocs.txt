@@ -1,12 +1,6 @@
-juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
-meshsorterio.com
-office-theme.com
-hiremployee.com
 ukr.net
-t.me
+updates-installer.store
+juventus.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -91,6 +85,10 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
+t.me
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -174,4 +172,6 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-updates-installer.store
+meshsorterio.com
+office-theme.com
+hiremployee.com
