@@ -12,9 +12,6 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-meshsorterio.com
-office-theme.com
-hiremployee.com
 ukr.net
 updates-installer.store
 juventus.com
@@ -175,3 +172,6 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
+meshsorterio.com
+office-theme.com
+hiremployee.com
