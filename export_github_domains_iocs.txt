@@ -1,3 +1,6 @@
+updates-installer.store
+t.me
+juventus.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -20,9 +23,6 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-ukr.net
-updates-installer.store
-t.me
 megakalashik.pro
 security-usa.com
 mccp-logistics.com
@@ -171,7 +171,7 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
+ukr.net
