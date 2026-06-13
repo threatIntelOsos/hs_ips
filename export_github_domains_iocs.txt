@@ -1,10 +1,6 @@
-updates-installer.store
-t.me
-juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
-ukr.net
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -27,6 +23,12 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
+meshsorterio.com
+office-theme.com
+hiremployee.com
+ukr.net
+t.me
+juventus.com
 megakalashik.pro
 security-usa.com
 mccp-logistics.com
@@ -172,6 +174,4 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-meshsorterio.com
-office-theme.com
-hiremployee.com
+updates-installer.store
