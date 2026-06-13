@@ -60,6 +60,8 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
+updates-installer.store
+t.me
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -147,6 +149,10 @@ meshsorterio.com
 office-theme.com
 hiremployee.com
 ukr.net
+juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -159,12 +165,6 @@ idp-selectric.com
 sevrrhst.com
 stomcs.com
 elhacker.info
-updates-installer.store
-t.me
-juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
