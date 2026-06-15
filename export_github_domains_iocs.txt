@@ -15,8 +15,6 @@ idp-selectric.com
 sevrrhst.com
 stomcs.com
 elhacker.info
-ukr.net
-updates-installer.store
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -172,6 +170,8 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
+updates-installer.store
 meshsorterio.com
 office-theme.com
 hiremployee.com
+ukr.net
