@@ -1,5 +1,8 @@
-ukr.net
-updates-installer.store
+t.me
+juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -157,11 +160,10 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-t.me
-juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+meshsorterio.com
+office-theme.com
+hiremployee.com
+updates-installer.store
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -172,6 +174,4 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-meshsorterio.com
-office-theme.com
-hiremployee.com
+ukr.net
