@@ -1,4 +1,9 @@
+ukr.net
 t.me
+juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -9,11 +14,7 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-ukr.net
-juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+updates-installer.store
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -174,4 +175,3 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-updates-installer.store
