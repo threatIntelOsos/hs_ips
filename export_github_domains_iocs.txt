@@ -157,8 +157,7 @@ meshsorterio.com
 office-theme.com
 hiremployee.com
 ukr.net
-t.me
-juventus.com
+updates-installer.store
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -174,4 +173,5 @@ idp-selectric.com
 sevrrhst.com
 stomcs.com
 elhacker.info
-updates-installer.store
+t.me
+juventus.com
