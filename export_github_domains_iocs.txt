@@ -150,7 +150,7 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-updates-installer.store
+ukr.net
 juventus.com
 mgardownload.com
 m-mgarg.com
@@ -174,4 +174,4 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-ukr.net
+updates-installer.store
