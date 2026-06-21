@@ -1,4 +1,5 @@
 t.me
+juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -86,8 +87,7 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
-ukr.net
-juventus.com
+updates-installer.store
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -174,4 +174,4 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-updates-installer.store
+ukr.net
