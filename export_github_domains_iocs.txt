@@ -1,9 +1,6 @@
-meshsorterio.com
-office-theme.com
-hiremployee.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+updates-installer.store
+t.me
+juventus.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -16,6 +13,13 @@ idp-selectric.com
 sevrrhst.com
 stomcs.com
 elhacker.info
+meshsorterio.com
+office-theme.com
+hiremployee.com
+ukr.net
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -171,7 +175,3 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-ukr.net
-updates-installer.store
-t.me
-juventus.com
