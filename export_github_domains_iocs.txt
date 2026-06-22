@@ -1,5 +1,5 @@
+ukr.net
 updates-installer.store
-t.me
 juventus.com
 sfrclak.com
 wallpapermacos.com
@@ -16,6 +16,7 @@ idp-selectric.com
 sevrrhst.com
 stomcs.com
 elhacker.info
+t.me
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -174,4 +175,3 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-ukr.net
