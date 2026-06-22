@@ -1,5 +1,5 @@
-ukr.net
-updates-installer.store
+t.me
+juventus.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -155,11 +155,7 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-meshsorterio.com
-office-theme.com
-hiremployee.com
-t.me
-juventus.com
+updates-installer.store
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -175,3 +171,7 @@ idp-selectric.com
 sevrrhst.com
 stomcs.com
 elhacker.info
+meshsorterio.com
+office-theme.com
+hiremployee.com
+ukr.net
