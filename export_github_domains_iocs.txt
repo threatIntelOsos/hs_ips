@@ -1,9 +1,6 @@
+botsc.autoupdate.xyz
+t.me
 juventus.com
-ukr.net
-updates-installer.store
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -88,6 +85,10 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
+updates-installer.store
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -173,5 +174,4 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-botsc.autoupdate.xyz
-t.me
+ukr.net
