@@ -1,6 +1,5 @@
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+botsc.autoupdate.xyz
+t.me
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -14,6 +13,11 @@ maisseguraca.site
 meshsorterio.com
 office-theme.com
 hiremployee.com
+updates-installer.store
+juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -171,7 +175,3 @@ osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
 ukr.net
-updates-installer.store
-botsc.autoupdate.xyz
-t.me
-juventus.com
