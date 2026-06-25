@@ -1,3 +1,6 @@
+meshsorterio.com
+office-theme.com
+hiremployee.com
 t.me
 botsc.autoupdate.xyz
 elhacker.info
@@ -16,6 +19,8 @@ securemyfourth.live
 idp-selectric.com
 sevrrhst.com
 stomcs.com
+ukr.net
+updates-installer.store
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -26,7 +31,6 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-ukr.net
 megakalashik.pro
 security-usa.com
 mccp-logistics.com
@@ -171,7 +175,3 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-meshsorterio.com
-office-theme.com
-hiremployee.com
-updates-installer.store
