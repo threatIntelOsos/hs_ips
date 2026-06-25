@@ -1,4 +1,12 @@
-juventus.com
+ukr.net
+t.me
+botsc.autoupdate.xyz
+elhacker.info
+webhook.site
+effectivegatecpm.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -95,14 +103,7 @@ meshsorterio.com
 office-theme.com
 hiremployee.com
 updates-installer.store
-t.me
-botsc.autoupdate.xyz
-elhacker.info
-webhook.site
-effectivegatecpm.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+juventus.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -174,4 +175,3 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
-ukr.net
