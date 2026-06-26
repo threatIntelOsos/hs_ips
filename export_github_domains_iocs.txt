@@ -1,3 +1,4 @@
+updates-installer.store
 t.me
 botsc.autoupdate.xyz
 elhacker.info
@@ -6,12 +7,6 @@ webhook.site
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
-meshsorterio.com
-office-theme.com
-hiremployee.com
-ukr.net
-updates-installer.store
-juventus.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -175,3 +170,8 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
+meshsorterio.com
+office-theme.com
+hiremployee.com
+ukr.net
+juventus.com
