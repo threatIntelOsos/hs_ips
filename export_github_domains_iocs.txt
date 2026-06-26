@@ -1,9 +1,9 @@
+updates-installer.store
 botsc.autoupdate.xyz
 webhook.site
 effectivegatecpm.com
 elhacker.info
 t.me
-juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -16,6 +16,8 @@ securemyfourth.live
 idp-selectric.com
 sevrrhst.com
 stomcs.com
+ukr.net
+juventus.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -88,8 +90,6 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
-ukr.net
-updates-installer.store
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
