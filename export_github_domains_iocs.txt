@@ -1,9 +1,8 @@
 updates-installer.store
-botsc.autoupdate.xyz
-t.me
-webhook.site
-effectivegatecpm.com
-elhacker.info
+juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -23,10 +22,6 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 megakalashik.pro
 security-usa.com
 mccp-logistics.com
@@ -175,3 +170,8 @@ meshsorterio.com
 office-theme.com
 hiremployee.com
 ukr.net
+botsc.autoupdate.xyz
+t.me
+webhook.site
+effectivegatecpm.com
+elhacker.info
