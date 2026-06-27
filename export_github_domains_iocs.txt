@@ -1,8 +1,3 @@
-t.me
-botsc.autoupdate.xyz
-webhook.site
-effectivegatecpm.com
-elhacker.info
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -101,6 +96,12 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
+updates-installer.store
+t.me
+botsc.autoupdate.xyz
+webhook.site
+effectivegatecpm.com
+elhacker.info
 juventus.com
 mgardownload.com
 m-mgarg.com
@@ -174,4 +175,3 @@ confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
 ukr.net
-updates-installer.store
