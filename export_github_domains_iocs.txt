@@ -1,8 +1,4 @@
-t.me
-botsc.autoupdate.xyz
-webhook.site
-effectivegatecpm.com
-elhacker.info
+juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -25,9 +21,6 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-ukr.net
-updates-installer.store
-juventus.com
 megakalashik.pro
 security-usa.com
 mccp-logistics.com
@@ -90,6 +83,12 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
+ukr.net
+t.me
+botsc.autoupdate.xyz
+webhook.site
+effectivegatecpm.com
+elhacker.info
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -175,3 +174,4 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
+updates-installer.store
