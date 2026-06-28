@@ -1,3 +1,8 @@
+botsc.autoupdate.xyz
+t.me
+elhacker.info
+effectivegatecpm.com
+webhook.site
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -170,8 +175,3 @@ office-theme.com
 hiremployee.com
 ukr.net
 updates-installer.store
-t.me
-botsc.autoupdate.xyz
-elhacker.info
-effectivegatecpm.com
-webhook.site
