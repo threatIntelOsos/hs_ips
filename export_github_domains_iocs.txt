@@ -1,3 +1,5 @@
+ukr.net
+updates-installer.store
 botsc.autoupdate.xyz
 t.me
 elhacker.info
@@ -15,6 +17,7 @@ securemyfourth.live
 idp-selectric.com
 sevrrhst.com
 stomcs.com
+juventus.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -87,11 +90,6 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
-meshsorterio.com
-office-theme.com
-hiremployee.com
-updates-installer.store
-juventus.com
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -174,4 +172,6 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-ukr.net
+meshsorterio.com
+office-theme.com
+hiremployee.com
