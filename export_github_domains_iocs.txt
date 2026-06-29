@@ -92,7 +92,11 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-updates-installer.store
+t.me
+botsc.autoupdate.xyz
+effectivegatecpm.com
+elhacker.info
+webhook.site
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -169,9 +173,5 @@ meshsorterio.com
 office-theme.com
 hiremployee.com
 ukr.net
-t.me
-botsc.autoupdate.xyz
-effectivegatecpm.com
-elhacker.info
-webhook.site
+updates-installer.store
 juventus.com
