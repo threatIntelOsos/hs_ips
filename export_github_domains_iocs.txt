@@ -1,4 +1,8 @@
-ukr.net
+updates-installer.store
+juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -91,16 +95,15 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-updates-installer.store
+meshsorterio.com
+office-theme.com
+hiremployee.com
+ukr.net
 botsc.autoupdate.xyz
 t.me
 effectivegatecpm.com
 elhacker.info
 webhook.site
-juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -172,6 +175,3 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
-meshsorterio.com
-office-theme.com
-hiremployee.com
