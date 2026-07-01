@@ -1,3 +1,8 @@
+botsc.autoupdate.xyz
+t.me
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -80,11 +85,7 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-meshsorterio.com
-office-theme.com
-hiremployee.com
 ukr.net
-updates-installer.store
 elhacker.info
 effectivegatecpm.com
 webhook.site
@@ -170,8 +171,7 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
-botsc.autoupdate.xyz
-t.me
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+meshsorterio.com
+office-theme.com
+hiremployee.com
+updates-installer.store
