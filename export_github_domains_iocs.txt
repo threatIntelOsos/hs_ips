@@ -1,9 +1,3 @@
-botsc.autoupdate.xyz
-t.me
-effectivegatecpm.com
-elhacker.info
-webhook.site
-juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -164,7 +158,13 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-ukr.net
+updates-installer.store
+botsc.autoupdate.xyz
+t.me
+effectivegatecpm.com
+elhacker.info
+webhook.site
+juventus.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -174,4 +174,4 @@ securemyfourth.live
 idp-selectric.com
 sevrrhst.com
 stomcs.com
-updates-installer.store
+ukr.net
