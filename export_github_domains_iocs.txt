@@ -3,9 +3,7 @@ t.me
 effectivegatecpm.com
 elhacker.info
 webhook.site
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+juventus.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -25,6 +23,13 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
+meshsorterio.com
+office-theme.com
+hiremployee.com
+ukr.net
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 megakalashik.pro
 security-usa.com
 mccp-logistics.com
@@ -87,8 +92,6 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
-updates-installer.store
-juventus.com
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -171,7 +174,4 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-meshsorterio.com
-office-theme.com
-hiremployee.com
-ukr.net
+updates-installer.store
