@@ -3,7 +3,6 @@ t.me
 effectivegatecpm.com
 elhacker.info
 webhook.site
-juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -27,7 +26,7 @@ test.ikotech.online
 proseguro.site
 maisseguraca.site
 ukr.net
-updates-installer.store
+juventus.com
 megakalashik.pro
 security-usa.com
 mccp-logistics.com
@@ -175,3 +174,4 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
+updates-installer.store
