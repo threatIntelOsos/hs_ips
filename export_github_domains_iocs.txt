@@ -145,8 +145,6 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-ukr.net
-updates-installer.store
 effectivegatecpm.com
 t.me
 webhook.site
@@ -155,7 +153,6 @@ botsc.autoupdate.xyz
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
-juventus.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -165,6 +162,9 @@ securemyfourth.live
 idp-selectric.com
 sevrrhst.com
 stomcs.com
+ukr.net
+updates-installer.store
+juventus.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
