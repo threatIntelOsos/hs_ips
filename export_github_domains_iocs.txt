@@ -1,9 +1,7 @@
-t.me
-effectivegatecpm.com
-webhook.site
-elhacker.info
-botsc.autoupdate.xyz
 juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -160,9 +158,11 @@ osamatest.xyz
 abc.buysalenet.ru
 ukr.net
 updates-installer.store
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+t.me
+effectivegatecpm.com
+webhook.site
+elhacker.info
+botsc.autoupdate.xyz
 mgardownload.com
 m-mgarg.com
 screenai.online
