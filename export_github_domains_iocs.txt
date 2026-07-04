@@ -1,9 +1,10 @@
+ukr.net
+updates-installer.store
 webhook.site
 t.me
 effectivegatecpm.com
 elhacker.info
 botsc.autoupdate.xyz
-juventus.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -14,7 +15,7 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-ukr.net
+juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -174,4 +175,3 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-updates-installer.store
