@@ -1,12 +1,10 @@
+ukr.net
+updates-installer.store
 t.me
 effectivegatecpm.com
 elhacker.info
 webhook.site
 botsc.autoupdate.xyz
-juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -81,8 +79,10 @@ carrier-packets.net
 meshsorterio.com
 office-theme.com
 hiremployee.com
-ukr.net
-updates-installer.store
+juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
