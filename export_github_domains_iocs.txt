@@ -1,3 +1,5 @@
+ukr.net
+updates-installer.store
 webhook.site
 t.me
 effectivegatecpm.com
@@ -173,5 +175,3 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-ukr.net
-updates-installer.store
