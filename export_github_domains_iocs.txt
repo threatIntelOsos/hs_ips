@@ -1,3 +1,9 @@
+webhook.site
+t.me
+effectivegatecpm.com
+elhacker.info
+botsc.autoupdate.xyz
+juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -82,14 +88,6 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
-ukr.net
-updates-installer.store
-webhook.site
-t.me
-effectivegatecpm.com
-elhacker.info
-botsc.autoupdate.xyz
-juventus.com
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -175,3 +173,5 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
+ukr.net
+updates-installer.store
