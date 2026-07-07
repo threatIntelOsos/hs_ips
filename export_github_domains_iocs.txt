@@ -1,8 +1,3 @@
-effectivegatecpm.com
-webhook.site
-t.me
-elhacker.info
-botsc.autoupdate.xyz
 megakalashik.pro
 security-usa.com
 mccp-logistics.com
@@ -65,12 +60,6 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
-ukr.net
-updates-installer.store
-juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -175,3 +164,14 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
+ukr.net
+updates-installer.store
+effectivegatecpm.com
+webhook.site
+t.me
+elhacker.info
+botsc.autoupdate.xyz
+juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
