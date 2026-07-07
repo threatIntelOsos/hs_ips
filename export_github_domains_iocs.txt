@@ -1,9 +1,7 @@
-effectivegatecpm.com
-webhook.site
-t.me
-elhacker.info
-botsc.autoupdate.xyz
 juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -88,9 +86,12 @@ carrier-packets.net
 meshsorterio.com
 office-theme.com
 hiremployee.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+updates-installer.store
+effectivegatecpm.com
+webhook.site
+t.me
+elhacker.info
+botsc.autoupdate.xyz
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -174,4 +175,3 @@ osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
 ukr.net
-updates-installer.store
