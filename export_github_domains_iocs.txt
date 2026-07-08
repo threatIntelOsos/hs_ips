@@ -1,3 +1,5 @@
+ukr.net
+updates-installer.store
 t.me
 webhook.site
 elhacker.info
@@ -13,9 +15,6 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-meshsorterio.com
-office-theme.com
-hiremployee.com
 juventus.com
 sfrclak.com
 wallpapermacos.com
@@ -173,5 +172,6 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-ukr.net
-updates-installer.store
+meshsorterio.com
+office-theme.com
+hiremployee.com
