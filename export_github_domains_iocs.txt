@@ -1,3 +1,4 @@
+ukr.net
 juventus.com
 mgardownload.com
 m-mgarg.com
@@ -93,7 +94,6 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-ukr.net
 updates-installer.store
 t.me
 webhook.site
