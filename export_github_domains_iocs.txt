@@ -3,10 +3,14 @@ elhacker.info
 effectivegatecpm.com
 t.me
 botsc.autoupdate.xyz
-juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
+meshsorterio.com
+office-theme.com
+hiremployee.com
+ukr.net
+juventus.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -16,7 +20,6 @@ securemyfourth.live
 idp-selectric.com
 sevrrhst.com
 stomcs.com
-updates-installer.store
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -171,7 +174,4 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-meshsorterio.com
-office-theme.com
-hiremployee.com
-ukr.net
+updates-installer.store
