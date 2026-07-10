@@ -1,3 +1,5 @@
+updates-installer.store
+juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -10,16 +12,6 @@ securemyfourth.live
 idp-selectric.com
 sevrrhst.com
 stomcs.com
-meshsorterio.com
-office-theme.com
-hiremployee.com
-ukr.net
-updates-installer.store
-webhook.site
-elhacker.info
-effectivegatecpm.com
-t.me
-botsc.autoupdate.xyz
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -174,4 +166,12 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-juventus.com
+meshsorterio.com
+office-theme.com
+hiremployee.com
+webhook.site
+elhacker.info
+effectivegatecpm.com
+t.me
+botsc.autoupdate.xyz
+ukr.net
