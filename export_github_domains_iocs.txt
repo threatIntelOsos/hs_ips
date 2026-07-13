@@ -6,6 +6,7 @@ botsc.autoupdate.xyz
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
+ukr.net
 updates-installer.store
 juventus.com
 mgardownload.com
@@ -174,4 +175,3 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-ukr.net
