@@ -4,9 +4,6 @@ elhacker.info
 effectivegatecpm.com
 botsc.autoupdate.xyz
 juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -163,6 +160,10 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
+updates-installer.store
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -174,4 +175,3 @@ test.ikotech.online
 proseguro.site
 maisseguraca.site
 ukr.net
-updates-installer.store
