@@ -158,12 +158,6 @@ meshsorterio.com
 office-theme.com
 hiremployee.com
 ukr.net
-updates-installer.store
-t.me
-webhook.site
-elhacker.info
-effectivegatecpm.com
-botsc.autoupdate.xyz
 juventus.com
 py-installer.cc
 intercttp.xyz
@@ -175,3 +169,9 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
+updates-installer.store
+t.me
+webhook.site
+elhacker.info
+effectivegatecpm.com
+botsc.autoupdate.xyz
