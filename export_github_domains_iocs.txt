@@ -1,4 +1,4 @@
-juventus.com
+updates-installer.store
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -18,11 +18,6 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-ukr.net
-updates-installer.store
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 megakalashik.pro
 security-usa.com
 mccp-logistics.com
@@ -167,11 +162,16 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-meshsorterio.com
-office-theme.com
-hiremployee.com
+ukr.net
 t.me
 webhook.site
 elhacker.info
 effectivegatecpm.com
 botsc.autoupdate.xyz
+juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
+meshsorterio.com
+office-theme.com
+hiremployee.com
