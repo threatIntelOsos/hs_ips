@@ -1,4 +1,4 @@
-juventus.com
+updates-installer.store
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -165,13 +165,13 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-ukr.net
 t.me
 webhook.site
 elhacker.info
 effectivegatecpm.com
 botsc.autoupdate.xyz
+juventus.com
 meshsorterio.com
 office-theme.com
 hiremployee.com
-updates-installer.store
+ukr.net
