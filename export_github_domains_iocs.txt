@@ -145,11 +145,17 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
+updates-installer.store
 t.me
 webhook.site
 elhacker.info
 effectivegatecpm.com
 botsc.autoupdate.xyz
+juventus.com
+ukr.net
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -169,9 +175,3 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-ukr.net
-updates-installer.store
-juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
