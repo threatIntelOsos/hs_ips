@@ -83,11 +83,7 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-meshsorterio.com
-office-theme.com
-hiremployee.com
 ukr.net
-updates-installer.store
 t.me
 webhook.site
 elhacker.info
@@ -175,3 +171,7 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
+meshsorterio.com
+office-theme.com
+hiremployee.com
+updates-installer.store
