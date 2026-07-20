@@ -3,6 +3,13 @@ webhook.site
 elhacker.info
 effectivegatecpm.com
 botsc.autoupdate.xyz
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
+meshsorterio.com
+office-theme.com
+hiremployee.com
+ukr.net
 juventus.com
 mgardownload.com
 m-mgarg.com
@@ -167,11 +174,4 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-meshsorterio.com
-office-theme.com
-hiremployee.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
-ukr.net
 updates-installer.store
