@@ -1,5 +1,3 @@
-ukr.net
-updates-installer.store
 t.me
 webhook.site
 elhacker.info
@@ -161,6 +159,7 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
+ukr.net
 juventus.com
 sfrclak.com
 wallpapermacos.com
@@ -175,3 +174,4 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
+updates-installer.store
