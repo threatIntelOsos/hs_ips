@@ -3,9 +3,7 @@ webhook.site
 elhacker.info
 effectivegatecpm.com
 botsc.autoupdate.xyz
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+juventus.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -25,6 +23,10 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
+updates-installer.store
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 megakalashik.pro
 security-usa.com
 mccp-logistics.com
@@ -173,5 +175,3 @@ meshsorterio.com
 office-theme.com
 hiremployee.com
 ukr.net
-juventus.com
-updates-installer.store
