@@ -1,3 +1,8 @@
+t.me
+webhook.site
+elhacker.info
+effectivegatecpm.com
+botsc.autoupdate.xyz
 juventus.com
 mgardownload.com
 m-mgarg.com
@@ -18,16 +23,6 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-meshsorterio.com
-office-theme.com
-hiremployee.com
-ukr.net
-updates-installer.store
-t.me
-webhook.site
-elhacker.info
-effectivegatecpm.com
-botsc.autoupdate.xyz
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -175,3 +170,8 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
+meshsorterio.com
+office-theme.com
+hiremployee.com
+ukr.net
+updates-installer.store
