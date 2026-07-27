@@ -3,10 +3,12 @@ webhook.site
 elhacker.info
 effectivegatecpm.com
 botsc.autoupdate.xyz
-juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
+ukr.net
+updates-installer.store
+juventus.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -173,5 +175,3 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-ukr.net
-updates-installer.store
