@@ -1,3 +1,7 @@
+juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -79,7 +83,6 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
-updates-installer.store
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -171,7 +174,4 @@ webhook.site
 elhacker.info
 effectivegatecpm.com
 botsc.autoupdate.xyz
-juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+updates-installer.store
