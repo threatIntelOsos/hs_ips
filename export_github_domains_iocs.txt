@@ -1,6 +1,5 @@
 ukr.net
 updates-installer.store
-juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -103,6 +102,7 @@ webhook.site
 elhacker.info
 effectivegatecpm.com
 botsc.autoupdate.xyz
+juventus.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
