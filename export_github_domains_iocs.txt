@@ -70,6 +70,11 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
+t.me
+webhook.site
+elhacker.info
+effectivegatecpm.com
+botsc.autoupdate.xyz
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -156,12 +161,11 @@ meshsorterio.com
 office-theme.com
 hiremployee.com
 ukr.net
-t.me
-webhook.site
-elhacker.info
-effectivegatecpm.com
-botsc.autoupdate.xyz
+updates-installer.store
 juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -171,7 +175,3 @@ securemyfourth.live
 idp-selectric.com
 sevrrhst.com
 stomcs.com
-updates-installer.store
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
