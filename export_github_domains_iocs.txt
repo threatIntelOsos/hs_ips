@@ -1,3 +1,10 @@
+webhook.site
+elhacker.info
+effectivegatecpm.com
+botsc.autoupdate.xyz
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -164,14 +171,7 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-t.me
 ukr.net
-updates-installer.store
-webhook.site
-elhacker.info
-effectivegatecpm.com
-botsc.autoupdate.xyz
+t.me
 juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+updates-installer.store
