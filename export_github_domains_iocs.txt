@@ -1,10 +1,4 @@
-ukr.net
-updates-installer.store
 t.me
-juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -14,10 +8,6 @@ securemyfourth.live
 idp-selectric.com
 sevrrhst.com
 stomcs.com
-webhook.site
-elhacker.info
-effectivegatecpm.com
-botsc.autoupdate.xyz
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -28,6 +18,15 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
+ukr.net
+webhook.site
+elhacker.info
+effectivegatecpm.com
+botsc.autoupdate.xyz
+juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 megakalashik.pro
 security-usa.com
 mccp-logistics.com
@@ -175,3 +174,4 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
+updates-installer.store
