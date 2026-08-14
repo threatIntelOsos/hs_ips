@@ -1,8 +1,4 @@
 t.me
-webhook.site
-elhacker.info
-effectivegatecpm.com
-botsc.autoupdate.xyz
 juventus.com
 sfrclak.com
 wallpapermacos.com
@@ -20,8 +16,10 @@ maisseguraca.site
 meshsorterio.com
 office-theme.com
 hiremployee.com
-ukr.net
-updates-installer.store
+webhook.site
+elhacker.info
+effectivegatecpm.com
+botsc.autoupdate.xyz
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -175,3 +173,5 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
+ukr.net
+updates-installer.store
