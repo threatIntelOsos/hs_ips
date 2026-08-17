@@ -88,6 +88,7 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
+updates-installer.store
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -174,4 +175,3 @@ meshsorterio.com
 office-theme.com
 hiremployee.com
 ukr.net
-updates-installer.store
