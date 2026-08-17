@@ -1,3 +1,5 @@
+ukr.net
+updates-installer.store
 t.me
 webhook.site
 elhacker.info
@@ -160,10 +162,6 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-meshsorterio.com
-office-theme.com
-hiremployee.com
-updates-installer.store
 juventus.com
 mgardownload.com
 m-mgarg.com
@@ -174,4 +172,6 @@ securemyfourth.live
 idp-selectric.com
 sevrrhst.com
 stomcs.com
-ukr.net
+meshsorterio.com
+office-theme.com
+hiremployee.com
