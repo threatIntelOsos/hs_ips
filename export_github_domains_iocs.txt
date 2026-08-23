@@ -1,3 +1,11 @@
+updates-installer.store
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
+meshsorterio.com
+office-theme.com
+hiremployee.com
+ukr.net
 t.me
 webhook.site
 elhacker.info
@@ -167,11 +175,3 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-meshsorterio.com
-office-theme.com
-hiremployee.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
-ukr.net
-updates-installer.store
