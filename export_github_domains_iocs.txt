@@ -1,8 +1,4 @@
-t.me
-webhook.site
-elhacker.info
-effectivegatecpm.com
-botsc.autoupdate.xyz
+juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -170,8 +166,12 @@ osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
 ukr.net
-juventus.com
+updates-installer.store
+t.me
+webhook.site
+elhacker.info
+effectivegatecpm.com
+botsc.autoupdate.xyz
 meshsorterio.com
 office-theme.com
 hiremployee.com
-updates-installer.store
