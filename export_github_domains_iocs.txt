@@ -13,9 +13,11 @@ stomcs.com
 meshsorterio.com
 office-theme.com
 hiremployee.com
-ukr.net
 updates-installer.store
-t.me
+webhook.site
+elhacker.info
+effectivegatecpm.com
+botsc.autoupdate.xyz
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -170,8 +172,6 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-webhook.site
-elhacker.info
-effectivegatecpm.com
-botsc.autoupdate.xyz
+ukr.net
+t.me
 juventus.com
