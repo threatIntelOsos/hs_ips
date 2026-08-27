@@ -1,7 +1,8 @@
-webhook.site
-elhacker.info
-effectivegatecpm.com
-botsc.autoupdate.xyz
+t.me
+juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -11,6 +12,11 @@ securemyfourth.live
 idp-selectric.com
 sevrrhst.com
 stomcs.com
+ukr.net
+webhook.site
+elhacker.info
+effectivegatecpm.com
+botsc.autoupdate.xyz
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -83,11 +89,6 @@ rateconfirm.net
 confirmation-rate.com
 claimeprogressive.com
 carrier-packets.net
-t.me
-juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 intelligentopennetworkingawards.com
 jornalistaaurelianoborgesmidia.com
 vinhomeshungyentheempires.com
@@ -173,5 +174,4 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-ukr.net
 updates-installer.store
