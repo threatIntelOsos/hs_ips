@@ -1,6 +1,5 @@
-elhacker.info
-effectivegatecpm.com
-botsc.autoupdate.xyz
+t.me
+webhook.site
 juventus.com
 sfrclak.com
 wallpapermacos.com
@@ -158,8 +157,13 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-t.me
-webhook.site
+meshsorterio.com
+office-theme.com
+hiremployee.com
+updates-installer.store
+elhacker.info
+effectivegatecpm.com
+botsc.autoupdate.xyz
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -170,8 +174,4 @@ maisseguro.site
 test.ikotech.online
 proseguro.site
 maisseguraca.site
-meshsorterio.com
-office-theme.com
-hiremployee.com
 ukr.net
-updates-installer.store
