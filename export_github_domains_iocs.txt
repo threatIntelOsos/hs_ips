@@ -3,9 +3,7 @@ webhook.site
 elhacker.info
 effectivegatecpm.com
 botsc.autoupdate.xyz
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+juventus.com
 megakalashik.pro
 security-usa.com
 mccp-logistics.com
@@ -150,8 +148,10 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-ukr.net
-juventus.com
+updates-installer.store
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -174,4 +174,4 @@ maisseguraca.site
 meshsorterio.com
 office-theme.com
 hiremployee.com
-updates-installer.store
+ukr.net
