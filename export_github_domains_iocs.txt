@@ -1,7 +1,4 @@
-t.me
 webhook.site
-ukr.net
-updates-installer.store
 elhacker.info
 effectivegatecpm.com
 botsc.autoupdate.xyz
@@ -175,3 +172,6 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
+ukr.net
+updates-installer.store
+t.me
