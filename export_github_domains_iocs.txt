@@ -1,12 +1,5 @@
 updates-installer.store
-t.me
-webhook.site
-elhacker.info
-effectivegatecpm.com
-botsc.autoupdate.xyz
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
+juventus.com
 megakalashik.pro
 security-usa.com
 mccp-logistics.com
@@ -151,7 +144,15 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-juventus.com
+ukr.net
+t.me
+webhook.site
+elhacker.info
+effectivegatecpm.com
+botsc.autoupdate.xyz
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -174,4 +175,3 @@ maisseguraca.site
 meshsorterio.com
 office-theme.com
 hiremployee.com
-ukr.net
