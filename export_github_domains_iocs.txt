@@ -1,3 +1,4 @@
+t.me
 webhook.site
 mgardownload.com
 m-mgarg.com
@@ -166,8 +167,6 @@ meshsorterio.com
 office-theme.com
 hiremployee.com
 ukr.net
-updates-installer.store
-t.me
 elhacker.info
 effectivegatecpm.com
 botsc.autoupdate.xyz
@@ -175,3 +174,4 @@ juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
+updates-installer.store
