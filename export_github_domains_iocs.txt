@@ -1,9 +1,9 @@
+updates-installer.store
 t.me
 webhook.site
 elhacker.info
 effectivegatecpm.com
 botsc.autoupdate.xyz
-juventus.com
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -151,7 +151,7 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-updates-installer.store
+juventus.com
 mgardownload.com
 m-mgarg.com
 screenai.online
