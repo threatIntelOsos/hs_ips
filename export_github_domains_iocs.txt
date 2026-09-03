@@ -1,12 +1,4 @@
-updates-installer.store
 webhook.site
-elhacker.info
-effectivegatecpm.com
-botsc.autoupdate.xyz
-juventus.com
-sfrclak.com
-wallpapermacos.com
-wallspaceapp.com
 py-installer.cc
 intercttp.xyz
 jsonserv.biz
@@ -164,7 +156,14 @@ abc.buysalenet.ru
 meshsorterio.com
 office-theme.com
 hiremployee.com
-t.me
+ukr.net
+elhacker.info
+effectivegatecpm.com
+botsc.autoupdate.xyz
+juventus.com
+sfrclak.com
+wallpapermacos.com
+wallspaceapp.com
 mgardownload.com
 m-mgarg.com
 screenai.online
@@ -174,4 +173,5 @@ securemyfourth.live
 idp-selectric.com
 sevrrhst.com
 stomcs.com
-ukr.net
+updates-installer.store
+t.me
