@@ -1,4 +1,8 @@
-updates-installer.store
+t.me
+webhook.site
+elhacker.info
+effectivegatecpm.com
+botsc.autoupdate.xyz
 sfrclak.com
 wallpapermacos.com
 wallspaceapp.com
@@ -156,11 +160,9 @@ clistats.com
 osamatest123.xyz
 osamatest.xyz
 abc.buysalenet.ru
-t.me
-webhook.site
-elhacker.info
-effectivegatecpm.com
-botsc.autoupdate.xyz
+meshsorterio.com
+office-theme.com
+hiremployee.com
 juventus.com
 mgardownload.com
 m-mgarg.com
@@ -171,7 +173,5 @@ securemyfourth.live
 idp-selectric.com
 sevrrhst.com
 stomcs.com
-meshsorterio.com
-office-theme.com
-hiremployee.com
 ukr.net
+updates-installer.store
